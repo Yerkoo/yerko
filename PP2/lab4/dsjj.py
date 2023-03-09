@@ -1,1 +1,0 @@
-from dcjj import gcdt
